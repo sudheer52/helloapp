@@ -12,6 +12,6 @@ public class HelloDevops {
 	
 	@RequestMapping("/rest/sudeer")
 	public String myName(){
-		return "Hello Sudeer";
+		return "Hello Sudheer R ";
 	}
 }
